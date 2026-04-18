@@ -1,4 +1,5 @@
 import Image from "next/image";
+import AuthStatus from './components/AuthStatus' // Client component
 
 export default function Home() {
   return (
